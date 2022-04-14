@@ -8,7 +8,7 @@ body {
   margin: 0;
 }
 header, footer {
-  background-color: #bde0fe;
+  background-color: #6B705C;
   text-align: left;
 /*  min-width: 500px; */
 }
@@ -86,7 +86,7 @@ object-fit: cover;
 }
 
 .myButton:hover {
-    background-color:#bde0fe;
+    background-color:#6B705C;
 }
 
 .myButton:active {
