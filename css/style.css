@@ -18,7 +18,9 @@ header {
   min-height: 100vh;
   display: flex;
 }
-
+a {
+  color: #6B705C;
+}
 main {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(40%, 1fr) );
@@ -86,7 +88,7 @@ object-fit: cover;
 }
 
 .myButton:hover {
-    background-color:#6B705C;
+    background-color: rgba(0,0,0,.25);
 }
 
 .myButton:active {
