@@ -78,9 +78,9 @@ object-fit: cover;
 
 .myButton {
   border-radius: 28px;
-  border: 1px solid #6B705C;
+  border: 1px solid #ffffff;
   cursor: pointer;
-  color: #6B705C;
+  color: #ffffff;
   font-size: 20px;
   padding: 16px 31px;
   text-decoration: none;
